@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fanchon;Barbara;;Melle
+FN:Fanchon Barbara
+ORG:Cabinet Etipathie
+TITLE:Fanchon Barbara
+PHOTO;VALUE=URL;TYPE=JPG:https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/06c/39c/1004949.jpg
+TEL;TYPE=WORK,VOICE:(+33) 673227861
+TEL;TYPE=HOME,VOICE:(+33) 673227861
+ADR;TYPE=WORK:;;16 Rue de l'Orillon;PARIS;75011;France
+LABEL;TYPE=WORK:16 Rue de l'Orillon, 75011 PARIS\nFrance
+EMAIL;TYPE=PREF,INTERNET:bfanchon.etiopathe@gmail.com
+REV:2015-02-24T19:52:43Z
+END:VCARD
